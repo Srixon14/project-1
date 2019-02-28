@@ -1,5 +1,8 @@
-# project-1
+# Strong Password Calculator
 
-I would add some inputs so that the user can choose the lenght of the password and wether if he wants to add symbols, capital letters and/or numbers to it or not. Also, I would add another input to give the user the chance of getting not only one password, but as many as he wants.
+Description
+The project consists on a program that gives the user an output, which is a randomly generated word, made up of characters.
 
-Since the exercise is called 'Strong Password Generator', I would also add a condition that allows the user only to generate a minimum lenght password, for instance 8 characters. Finally, for the same reason, the password won't ever have more than, for instance, 4 times the same character.
+Features and Workflow
+The most basic version of the program is to return a password made up of only letters and with a fixed lenght.
+Once this works, many funcionalities can be added to the program to create a stronger password. First of all, the possibility to return not only letters but also numbers and symbols. Then, the lenght of the password might be variable. The next step is to give the user the possibility of getting not only one password, but as many as he wants. Finally, just to ensure the program gives a really strong password, this will have a minimum established lenght and also the program won't have the possibility of returning a password with any character repeated 4 or more times.
